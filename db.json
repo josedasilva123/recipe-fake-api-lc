@@ -7,67 +7,28 @@
       "id": 1
     }
   ],
-  "posts": [
+  "recipes": [
     {
       "id": 1,
-      "categoryId": 1,
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt 1",
-      "content": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod. Pellentesque scelerisque turpis lectus, id vulputate tellus mattis eu. Integer sodales volutpat massa eu tempus. Nam faucibus nibh eget ipsum hendrerit laoreet. Nullam tempor in massa in rutrum. Praesent rutrum purus a erat varius efficitur. In laoreet dui lectus, ut sodales urna fermentum in. Vestibulum ut mi imperdiet, hendrerit sapien sit amet, posuere eros. Fusce vitae venenatis sem. Morbi vel dictum mauris. Fusce tempor arcu quis leo tincidunt scelerisque.",
-      "image": "https://images.pexels.com/photos/1586973/pexels-photo-1586973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "id": 2,
-      "categoryId": 2,
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt 2",
-      "excerpt": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod.",
-      "content": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod. Pellentesque scelerisque turpis lectus, id vulputate tellus mattis eu. Integer sodales volutpat massa eu tempus. Nam faucibus nibh eget ipsum hendrerit laoreet. Nullam tempor in massa in rutrum. Praesent rutrum purus a erat varius efficitur. In laoreet dui lectus, ut sodales urna fermentum in. Vestibulum ut mi imperdiet, hendrerit sapien sit amet, posuere eros. Fusce vitae venenatis sem. Morbi vel dictum mauris. Fusce tempor arcu quis leo tincidunt scelerisque.",
-      "image": "https://images.pexels.com/photos/1181352/pexels-photo-1181352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "id": 3,
-      "categoryId": 1,
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt 3",
-      "excerpt": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod.",
-      "content": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod. Pellentesque scelerisque turpis lectus, id vulputate tellus mattis eu. Integer sodales volutpat massa eu tempus. Nam faucibus nibh eget ipsum hendrerit laoreet. Nullam tempor in massa in rutrum. Praesent rutrum purus a erat varius efficitur. In laoreet dui lectus, ut sodales urna fermentum in. Vestibulum ut mi imperdiet, hendrerit sapien sit amet, posuere eros. Fusce vitae venenatis sem. Morbi vel dictum mauris. Fusce tempor arcu quis leo tincidunt scelerisque.",
-      "images": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "id": 4,
-      "categoryId": 1,
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt 4",
-      "excerpt": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod.",
+      "title": "Sushi",
       "content": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod. Pellentesque scelerisque turpis lectus, id vulputate tellus mattis eu. Integer sodales volutpat massa eu tempus. Nam faucibus nibh eget ipsum hendrerit laoreet. Nullam tempor in massa in rutrum. Praesent rutrum purus a erat varius efficitur. In laoreet dui lectus, ut sodales urna fermentum in. Vestibulum ut mi imperdiet, hendrerit sapien sit amet, posuere eros. Fusce vitae venenatis sem. Morbi vel dictum mauris. Fusce tempor arcu quis leo tincidunt scelerisque."
     },
     {
-      "id": 5,
-      "categoryId": 1,
-      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt 5",
-      "excerpt": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod.",
-      "content": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod. Pellentesque scelerisque turpis lectus, id vulputate tellus mattis eu. Integer sodales volutpat massa eu tempus. Nam faucibus nibh eget ipsum hendrerit laoreet. Nullam tempor in massa in rutrum. Praesent rutrum purus a erat varius efficitur. In laoreet dui lectus, ut sodales urna fermentum in. Vestibulum ut mi imperdiet, hendrerit sapien sit amet, posuere eros. Fusce vitae venenatis sem. Morbi vel dictum mauris. Fusce tempor arcu quis leo tincidunt scelerisque."
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "slug": "categoria1",
-      "label": "Categoria 1"
-    },
-    {
       "id": 2,
-      "slug": "categoria2",
-      "label": "Categoria 2"
+      "title": "Pizza",
+      "content": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod. Pellentesque scelerisque turpis lectus, id vulputate tellus mattis eu. Integer sodales volutpat massa eu tempus. Nam faucibus nibh eget ipsum hendrerit laoreet. Nullam tempor in massa in rutrum. Praesent rutrum purus a erat varius efficitur. In laoreet dui lectus, ut sodales urna fermentum in. Vestibulum ut mi imperdiet, hendrerit sapien sit amet, posuere eros. Fusce vitae venenatis sem. Morbi vel dictum mauris. Fusce tempor arcu quis leo tincidunt scelerisque."
     },
     {
       "id": 3,
-      "slug": "categoria3",
-      "label": "Categoria 3"
+      "title": "Risoto",
+      "content": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula. Nullam pulvinar diam iaculis porta euismod. Pellentesque scelerisque turpis lectus, id vulputate tellus mattis eu. Integer sodales volutpat massa eu tempus. Nam faucibus nibh eget ipsum hendrerit laoreet. Nullam tempor in massa in rutrum. Praesent rutrum purus a erat varius efficitur. In laoreet dui lectus, ut sodales urna fermentum in. Vestibulum ut mi imperdiet, hendrerit sapien sit amet, posuere eros. Fusce vitae venenatis sem. Morbi vel dictum mauris. Fusce tempor arcu quis leo tincidunt scelerisque."
     }
   ],
-  "comments": [
+  "reviews": [
     {
       "id": 1,
-      "postId": 1,
-      "author": "Osvaldo",
+      "grade": 5,
+      "recipeId": 1,
       "text": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula."
     }
   ]
